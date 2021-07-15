@@ -37,6 +37,15 @@
     "عکس": "https://s4.uupload.ir/files/img_20210708_120147_407_ea2g.jpg",
 
     "متن": "متن پنج"
+    },
+
+  {
+
+    "عکس": "https://s4.uupload.ir/files/picsart_07-14-05.23.47_wg70.jpg",
+
+    "متن": "https://www.aparat.com/v/GHL9T
+
+سکانسی از trollhunters rise of titans (rot) غول کش ها ظهور تایتان ها"
 
   }
 
